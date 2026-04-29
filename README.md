@@ -35,7 +35,7 @@ DATA folder: initial data (imported test/training images and fruit labels) and f
 
 OUTPUT: figures and tables generated from scripts
 
-REFERENCES: sources used throughout project
+SOURCES: sources used throughout project
 
 ## Reproducing Results
 Launch Jupyter Notebook
