@@ -38,6 +38,10 @@ OUTPUT: figures and tables generated from scripts
 
 SOURCES: sources used throughout project
 
+Project Rubric: Rubric for the project, lists all required elements for final result 
+
+CS3 - Case Study 3: Hook document
+
 ## Reproducing Results
 Launch Jupyter Notebook
 
