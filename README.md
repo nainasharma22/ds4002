@@ -34,8 +34,6 @@ SCRIPTS folder: source code for project
 
 DATA folder: initial data (imported test/training images and fruit labels) and final cleaned data
 
-OUTPUT: figures and tables generated from scripts
-
 SOURCES: sources used throughout project
 
 Project Rubric: Rubric for the project, lists all required elements for final result 
