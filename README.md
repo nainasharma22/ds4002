@@ -4,6 +4,7 @@ This project is a case study that investigates whether incorporating clinical me
 This project focuses on a comparative machine learning workflow:
 
 Image-only model (using pretrained image features)
+
 Image + metadata model (combining visual + clinical information)
 
 The goal is to evaluate whether additional structured clinical information improves predictive performance and under what conditions it is most useful.
